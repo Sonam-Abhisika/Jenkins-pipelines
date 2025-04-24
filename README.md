@@ -1,2 +1,2 @@
 # Jenkins-pipelines
-This practice Jenkins-pipelines and get enough hands on with it.
+To run, practice Jenkins-pipelines and get enough hands on with it.
